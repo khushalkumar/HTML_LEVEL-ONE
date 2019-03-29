@@ -1,0 +1,16 @@
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #073B4C;
+  text-align: center;
+  color: white;
+  border-left: solid 26px #06D6A0;
+  border-right: solid 26px #06D6A0;
+  border-bottom: solid 26px #06D6A0;
+  margin: 0;
+}
+
+/* div{
+  border-left: solid 26px #06D6A0;
+  border-right: solid 26px #06D6A0;
+  border-bottom: solid 26px #06D6A0;
+} */

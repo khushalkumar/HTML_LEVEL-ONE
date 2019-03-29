@@ -1,0 +1,36 @@
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #073B4C;
+  color: white;
+  text-align: center;
+  border-left: 60px solid #06D6A0;
+  border-right: 60px solid #06D6A0;
+  border-bottom: 60px solid #06D6A0;
+  margin: 0;
+}
+
+#btn{
+  background-color: orange;
+  height: 80px;
+  width: 150px;
+  font-size: 22px;
+  border-radius: 20px;
+  margin-bottom: 0.3%;
+}
+
+input{
+  height: 30px;
+  width: 300px;
+}
+
+h3{
+  padding: 0;
+  margin: 0;
+}
+
+p{
+  margin-top: 70px;
+  padding-left: 300px;
+  padding-right: 300px;
+  text-align: justify center;
+}
